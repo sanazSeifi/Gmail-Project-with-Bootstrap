@@ -1,0 +1,74 @@
+
+.navbar{
+    border-bottom: 1px solid white;
+}
+.navbar-nav>a{
+   color: white;
+   text-decoration: none;
+   line-height: 20px;
+  
+    
+}
+.nav-left> .material-icons{
+    padding-top:8px;
+    padding-right: 10px;
+}
+.navbar-nav> img{
+    font-size: medium;
+}
+.form-control{
+    margin-left: 50px;
+    width: 400px !important;
+}
+
+.form-group>input{
+    padding-left: 50px;
+    font-size: medium;
+}
+
+.list-1{
+left: 60px;
+top: 6px;
+}
+
+.list-2{
+   left: 410px;
+    top: 5px;
+}
+.nav-right{
+color: white;
+padding-right: 5px;
+
+}
+.nav-right>.material-icons{
+    padding-right: 10px;
+}
+
+
+.main .row .material-icons{
+    font-size:smaller;
+    color: white;
+    /* line-height: 10px; */
+
+}
+.main .row a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+.aside{
+    display: inline-block;
+}
+.panel-body{
+   
+    color: white;
+
+}
+
+/* .refresh{
+    color: white;
+    text-decoration: none;
+}
+.more {
+    color: white;
+} */
